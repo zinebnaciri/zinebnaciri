@@ -1,8 +1,6 @@
 
 <div>
-    <div align=center>
-        <img src="https://i.pinimg.com/originals/b0/33/f0/b033f09f3fe84e3899009a69acec44cc.gif" alt="GitHub profile pic" height="200">
-    </div>
+   
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Zineb+Naciri+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
     </div>
