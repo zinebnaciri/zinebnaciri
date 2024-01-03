@@ -23,9 +23,11 @@
 <li>🚀 Frameworks: Spring Boot.</li>
 <li>⚡️ Feel free to explore my repositories and leave a star if you find something interesting! ⭐️</li>
 </ul>
-I'm always open to new projects and collaborations. If you have a cool idea or just want to chat, feel free to reach out. Let's create something amazing together! 🤗
-🌟 Fun Fact
-I believe that coffee ☕ and code 💻 can solve almost anything. What's your favorite coding snack?
+<div align=center>
+  <p>I'm always open to new projects and collaborations. If you have a cool idea or just want to chat, feel free to reach out. Let's create something amazing together! 🤗</p>
+    <p>🌟 Fun Fact</p>
+    <p>I believe that coffee ☕ and code 💻 can solve almost anything. What's your favorite coding snack?</p>
+</div>
             </strong>
         </p>
         
