@@ -1,16 +1,29 @@
-### Hi there 👋
+## 👋 Hello!
+### I'm Zineb Naciri, a passionate software developer with a flair for innovation and a love for clean code. Welcome to my corner of the coding universe! 🚀
 
-<!--
-**zinebnaciri/zinebnaciri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌱 About Me
+🎓 Computer Science graduate with a passion for problem-solving and continuous learning.
+💻 Full-stack developer.
+🌐 Open-source enthusiast, I believe in the power of collaborative coding.
+🚀 What I'm Working On
 
-Here are some ideas to get you started:
+Here are a few technologies I enjoy working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Frontend: React.js.
+🖥️ Backend: JAVA.
+🛢️ Databases: MYSQL.
+🚀 Frameworks: Spring Boot.
+🌍 Find Me Around
+🌐 Portfolio: https://zinebfolio-au115gyr2-catmilkomg.vercel.app/
+📧 Email: zineb.naciri02@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/zinebnaciri/
+🤝 Let's Collaborate
+I'm always open to new projects and collaborations. If you have a cool idea or just want to chat, feel free to reach out. Let's create something amazing together! 🤗
+
+🌟 Fun Fact
+I believe that coffee ☕ and code 💻 can solve almost anything. What's your favorite coding snack?
+
+📈 GitHub Stats
+
+
+⚡️ Feel free to explore my repositories and leave a star if you find something interesting! ⭐️
