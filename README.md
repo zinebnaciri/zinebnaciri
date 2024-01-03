@@ -9,7 +9,7 @@
     <div align=center>
         <a href="https://www.linkedin.com/in/zinebnaciri/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://www.upwork.com/freelancers/~0181ae945e5fddc761"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
-        <a href="https://zinebfolio.vercel.app/"><img src="https://img.shields.io/badge/vercel-8A2BE2?style=flat&logo=vercel" alt="portfolio" /></a>
+        <a href="https://zinebfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-8A2BE2?style=flat&logo=vercel" alt="portfolio" /></a>
         
     </div>
     <div align=left>
